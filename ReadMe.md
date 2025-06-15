@@ -88,3 +88,4 @@ python training/build_tokenizer.py \
 python src/generate.py "Your prompt here"
  ```
 
+[View Terms of Service](./TOS.md)
