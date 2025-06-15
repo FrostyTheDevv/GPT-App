@@ -1,4 +1,4 @@
-# 🧠 my_local_gpt
+# 🧠 GPT-APP
 
 A from-scratch GPT-style language model implementation in Python.
 
